@@ -11,7 +11,8 @@ Wingdings translator:
 
 **flag{e0791ce68f718188c0378b1c0a3bdc9e}**
 
-## What is Wingdings?
+
+### What is Wingdings?
 
 Wingdings is a typeface of the dingbat typographic family which renders a variety of symbols.
 They were originally developed in 1990 by Microsoft, by combining different types of characters:
