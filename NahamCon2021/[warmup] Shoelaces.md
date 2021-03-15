@@ -8,6 +8,6 @@ Download the file below.
 
 
 # Solution
-Image steganography - I used [hex editor](https://hexed.it/) to search for **FF D9** which is the hex value for EOI (End of Image)
+Image steganography - I used [hex editor](https://hexed.it/) to search for **FF D9** which is the hex value for EOI (End of Image):
 
 <img width="450" alt="Zrzut ekranu 2021-03-15 o 23 32 20" src="https://user-images.githubusercontent.com/39927974/111229908-0a333600-85e7-11eb-9eeb-82ae05117b88.png">
