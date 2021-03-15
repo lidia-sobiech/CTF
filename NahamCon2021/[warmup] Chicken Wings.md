@@ -7,9 +7,9 @@ I ordered chicken wings at the local restaurant, but uh... this really isn't wha
 
 # Solution
 
-Wingdings translator:
+**Wingdings translator:**
 
-**flag{e0791ce68f718188c0378b1c0a3bdc9e}**
+:triangular_flag_on_post: flag{e0791ce68f718188c0378b1c0a3bdc9e}
 
 
 ### What is Wingdings?
