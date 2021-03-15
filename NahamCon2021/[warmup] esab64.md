@@ -19,4 +19,4 @@ X31lNjFlNzExMTA2YmQwZGIxYjc4ZWZhODk0YjExMjViZntnYWxm
   
 **3) Reverse the entire string again:**
 
-flag{fb5211b498afe87b1bd0db601117e16e}_
+:triangular_flag_on_post: flag{fb5211b498afe87b1bd0db601117e16e}_
