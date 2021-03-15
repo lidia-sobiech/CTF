@@ -7,7 +7,7 @@ D'`r#LK\[}{{EUUTet,r*qo'nmlk5ihVB0S!>w<<)9xqYonsrqj0hPlkdcb(`Hd]#a`_A@VzZY;Qu8NM
 ```
 
 # Solution
-Malbolge is a public domain esoteric programming language invented by Ben Olmstead in 1998, named after the **eighth circle** of hell in Dante's Inferno, the Malebolge
+Malbolge is a public domain esoteric programming language invented by Ben Olmstead in 1998, named after the **eighth circle** of hell in Dante's Inferno, the Malebolge.
 
 **Run the code in a Malbolge interpreter:**
 
